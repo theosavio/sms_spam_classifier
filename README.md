@@ -32,5 +32,5 @@ The dataset used for training the model can be found on Kaggle at [SMS Spam Coll
 ## User Interface Showcase
 - Below are screenshots showcasing the user interface of the Streamlit web application:
 
-![Screenshot 1](screenshots/op1.png)
-![Screenshot 2](screenshots/op2.png)
+![Screenshot 1](op1.png)
+![Screenshot 2](op2.png)
